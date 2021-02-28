@@ -26,7 +26,6 @@ import java.util.List;
  */
 public class YxpAppUtils {
 
-
     /**
      * Install the app.
      * <p>Target APIs greater than 25 must hold
