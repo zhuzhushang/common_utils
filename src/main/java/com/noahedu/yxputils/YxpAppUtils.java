@@ -21,7 +21,7 @@ import java.util.List;
 
 /**
  * Author: shaoqw
- * Date: 2020/12/1 11:09
+ * Date: 2020/12/1 
  * Description: app相关操作
  */
 public class YxpAppUtils {
